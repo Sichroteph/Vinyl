@@ -1,0 +1,49 @@
+{
+    "author": "Christophe Jeannette",
+    "dependencies": {},
+    "keywords": [],
+    "name": "vinyl",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "Vinyl",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "KEY_COLOR_BG_B": 5,
+            "KEY_COLOR_BG_G": 4,
+            "KEY_COLOR_BG_R": 3,
+            "KEY_COLOR_BUBLES_B": 11,
+            "KEY_COLOR_BUBLES_G": 10,
+            "KEY_COLOR_BUBLES_R": 9,
+            "KEY_COLOR_HANDS_B": 8,
+            "KEY_COLOR_HANDS_G": 7,
+            "KEY_COLOR_HANDS_R": 6,
+            "KEY_COLOR_TEXT_B": 14,
+            "KEY_COLOR_TEXT_G": 13,
+            "KEY_COLOR_TEXT_R": 12,
+            "KEY_FIVE_MARKS": 2,
+            "KEY_LAST_REFRESH": 16,
+            "KEY_MN_MARKS": 1,
+            "KEY_TEMPERATURE": 15,
+            "KEY_VIBRATION": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "582a0687-d97f-4d55-bc96-566e587eb015",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "2.7.0"
+}
